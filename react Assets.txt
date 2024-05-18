@@ -1,6 +1,7 @@
 
 *For react icon
 https://lucide.dev/ 
+https://react-icons.github.io/react-icons/
 
 *For react motion
 https://www.framer.com/motion/
