@@ -1,0 +1,9 @@
+
+*For react icon
+https://lucide.dev/ 
+
+*For react motion
+https://www.framer.com/motion/
+
+*For react notifications
+https://react-hot-toast.com/
