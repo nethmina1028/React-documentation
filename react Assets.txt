@@ -7,3 +7,6 @@ https://www.framer.com/motion/
 
 *For react notifications
 https://react-hot-toast.com/
+
+*For react sounds
+https://www.youtube.com/watch?v=U1T_J6Odoqg
